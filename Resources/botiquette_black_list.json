@@ -1,0 +1,57 @@
+{
+  "comments-only": [
+    "talesfromyourserver"
+  ],
+  "posts-only": [
+    "bmw"
+  ],
+  "disallowed": [
+    "anime",
+    "asianamerican",
+    "askhistorians",
+    "askscience",
+    "askreddit",
+    "aww",
+    "chicagosuburbs",
+    "cosplay",
+    "deer",
+    "depthhub",
+    "drinkingdollars",
+    "forwardsfromgrandma",
+    "geckos",
+    "giraffes",
+    "grindsmygears",
+    "misc",
+    "movies",
+    "news",
+    "newtotf2",
+    "omaha",
+    "petstacking",
+    "pigs",
+    "politicaldiscussion",
+    "politics",
+    "raerthdev",
+    "rants",
+    "science",
+    "shoplifting",
+    "sketches",
+    "talesfromtechsupport",
+    "torrent",
+    "torrents",
+    "trackers",
+    "tr4shbros",
+    "unitedkingdom",
+    "crucibleplaybook"
+  ],
+  "permission": [
+    "benfrick",
+    "futurology",
+    "graphic_design",
+    "historicalwhatif",
+    "malifaux",
+    "nfl",
+    "toonami",
+    "ps2ceres",
+    "duelingcorner"
+  ]
+}
